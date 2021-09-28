@@ -1,6 +1,7 @@
 #!/bin/sh
 #
 # Copyright (C) 2018 The MoKee Open Source Project
+# Copyright (C) 2021 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,4 +16,4 @@
 # limitations under the License.
 #
 
-$ANDROID_BUILD_TOP/device/smartisan/sdm660-common/ota_preprocess.mokee
+$ANDROID_BUILD_TOP/device/smartisan/sdm660-common/ota_postprocess
